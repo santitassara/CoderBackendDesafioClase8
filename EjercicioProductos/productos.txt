@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Tablero",
+    "price": 358,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 1
+  },
+  {
+    "title": "Tablero2",
+    "price": 132,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 2
+  },
+  {
+    "title": "Tablero3",
+    "price": 211,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 3
+  },
+  {
+    "title": "Tablero4",
+    "price": 735,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 4
+  },
+  {
+    "title": "Tablero5",
+    "price": 253,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 5
+  },
+  {
+    "title": "Tablero6",
+    "price": 404,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 6
+  },
+  {
+    "title": "Tablero7",
+    "price": 582,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 7
+  },
+  {
+    "title": "Tablero8",
+    "price": 118,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 8
+  },
+  {
+    "title": "Tablero9",
+    "price": 219,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 9
+  },
+  {
+    "title": "Tablero10",
+    "price": 366,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 10
+  },
+  {
+    "price": null,
+    "id": 11
+  },
+  {
+    "title": "Tablero12",
+    "price": 607,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 12
+  },
+  {
+    "price": null,
+    "id": 13
+  },
+  {
+    "price": null,
+    "id": 14
+  }
+]
